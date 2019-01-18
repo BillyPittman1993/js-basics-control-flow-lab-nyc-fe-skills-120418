@@ -34,4 +34,5 @@ function switchOnCharmFromTip(tip) {
     break;
     }
   }
+  return result
 }
