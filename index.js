@@ -26,7 +26,7 @@ function ternaryCheckCity() {
     result = 'Thank you.';
     break;
     }
-  default 'thanks for everything': {
+  default: 'thanks for everything': {
     result = 'Bye.';
     break;
     }
